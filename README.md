@@ -24,4 +24,4 @@ cat hash_output.txt
 
 ### Details
 
-Hashing was preformed using SHA-256.  
+Hashing was performed using SHA-256.  
